@@ -1823,6 +1823,7 @@ MonoBehaviour:
   weaponsSprites:
   - {fileID: 687102173}
   - {fileID: 1539305176}
+  itemPrice: []
 --- !u!114 &1596037655
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2358,16 +2359,17 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 0}
   weaponsNames:
   - {fileID: 1870424611}
   - {fileID: 81890712}
   - {fileID: 1909892267}
-  - {fileID: 0}
   weaponsSprites:
   - {fileID: 1736034151}
   - {fileID: 1087799889}
   - {fileID: 1451852148}
+  itemPrice:
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 0}
 --- !u!1 &1886769876
 GameObject:
