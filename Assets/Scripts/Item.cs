@@ -4,19 +4,21 @@ using UnityEngine;
 
 public class Item : MonoBehaviour
 {
-
     public ScriptableItem itemInfo;
 
     private SpriteRenderer spriteRenderer;
-    
-    void Start()
-    {
-        spriteRenderer.sprite = itemInfo.itemSprite;
-    }
-    
+
     void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
+    }
+
+    void Start()
+    {
+        if (itemInfo != null && spriteRenderer != null)
+        {
+            spriteRenderer.sprite = itemInfo.itemSprite;
+        }
     }
 
     void OnTriggerEnter2D(Collider2D collider)

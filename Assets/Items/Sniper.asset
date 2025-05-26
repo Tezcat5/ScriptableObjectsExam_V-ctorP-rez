@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9dd80c41ec2c3c6409488eb7dbf7cfcd, type: 3}
-  m_Name: Subfusil
+  m_Name: Sniper
   m_EditorClassIdentifier: 
-  itemName: Sniper
-  itemPrice: 1
+  itemName: 
   itemSprite: {fileID: 0}
+  itemPrice: 0
