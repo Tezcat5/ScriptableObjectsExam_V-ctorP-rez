@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9dd80c41ec2c3c6409488eb7dbf7cfcd, type: 3}
-  m_Name: Arma
+  m_Name: Fusil
   m_EditorClassIdentifier: 
-  itemName: 
-  itemPrice: 0
-  itemSprite: {fileID: 0}
+  itemName: Fusil
+  itemPrice: 2
+  itemSprite: {fileID: 21300000, guid: 9648af7b14a7e1440ba93a198bf25d12, type: 3}

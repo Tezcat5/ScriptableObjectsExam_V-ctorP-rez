@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9dd80c41ec2c3c6409488eb7dbf7cfcd, type: 3}
-  m_Name: Armadura
+  m_Name: Escopeta
   m_EditorClassIdentifier: 
-  itemName: 
-  itemPrice: 0
-  itemSprite: {fileID: 0}
+  itemName: Escopeta
+  itemPrice: 3
+  itemSprite: {fileID: 21300000, guid: 48b08b8eef2ba0c418ae27d77897a591, type: 3}
